@@ -7,13 +7,12 @@ output: html_document
 
 
 ## Files
-* The code takes the data is present in the same folder, un-compressed.
 
 * The data was downloaded from [UCI HAR DATASET](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) and un-zipped.
 
 * **CodeBook.md** describes the variables and any modifications done to tidy the data.
 
-* **run_analysis.R** contains all the code to perform the functions asked in the project. Download the R-script in the same folder as the dataset. Set the working directory to the folder that has the un-zipped data and the R-Script. Then run the script in R-Studio.
+* **run_analysis.R** contains all the code to perform the functions asked in the project. Download the R-script in the same folder as the dataset. Set the working directory to the folder that has the un-zipped data and the R-Script. Then run the script in R-Studio. The code takes the data that is present in the same folder, un-compressed.
 
 * Finally, tidy average of each variable is stored in a file called **tidy_mergedData.txt**, and uploaded in the course project's repo.
 
